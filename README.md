@@ -5,7 +5,7 @@ I also have little experience in Software development.
 I currently work with:
 FrontEnd -PHP(Wordpress), HTML and CSS
 BackEnd - C#(under construction)
-Databsse - MsSQL
+Database - MsSQL
 
 Find me on ~
 Upwork::
