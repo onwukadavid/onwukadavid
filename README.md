@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Onwuka David</h1>
 <h3 align="center">A passionate backend developer with a sense of business</h3>
 
-- 🌱 I’m currently learning **Django rest framework**
+- 🌱 I’m currently diving in-depth into **cloud computing and technologies**
 
 - 👯 I’m looking to collaborate on **Web projects or python projects**
 
-- 💬 Ask me about **Django, Python**
+- 💬 Ask me about **Django, Python, DRF, GCP**
 
 - 📫 How to reach me **onwuka.david.uchechi@gmail.com**
 
